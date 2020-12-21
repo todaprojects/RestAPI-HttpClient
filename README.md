@@ -1,4 +1,4 @@
-# Shop App
+# RestAPI-HttpClient
 A .NET console application, written with C#.
 
 ### Task
