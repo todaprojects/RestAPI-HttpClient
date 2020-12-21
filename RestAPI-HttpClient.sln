@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPI-HttpClient", "RestAPI-HttpClient\RestAPI-HttpClient.csproj", "{4DAF53C5-4E8D-4E60-AD2A-9DD758AAAF7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAF53C5-4E8D-4E60-AD2A-9DD758AAAF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAF53C5-4E8D-4E60-AD2A-9DD758AAAF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
