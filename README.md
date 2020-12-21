@@ -11,4 +11,4 @@ Tips:
 
 ### Usage
 
-Required dependency: **`Newtonsoft.Json`** plugin.
+Required dependency: **`Newtonsoft.Json`** NuGet package.
