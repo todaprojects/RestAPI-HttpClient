@@ -1,6 +1,6 @@
 using System.Net.Http;
 
-namespace RestAPI_HttpClient.utils
+namespace RestAPI_HttpClient.Utils
 {
     public static class HttpClientHandler
     {

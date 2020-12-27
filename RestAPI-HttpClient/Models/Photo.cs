@@ -1,4 +1,4 @@
-namespace RestAPI_HttpClient.models
+namespace RestAPI_HttpClient.Models
 {
     public class Photo
     {

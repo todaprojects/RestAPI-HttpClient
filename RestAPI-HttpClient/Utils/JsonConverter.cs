@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-using RestAPI_HttpClient.config;
+using RestAPI_HttpClient.Config;
 
-namespace RestAPI_HttpClient.utils
+namespace RestAPI_HttpClient.Utils
 {
     public static class JsonConverter
     {

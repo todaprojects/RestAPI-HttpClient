@@ -1,9 +1,9 @@
 using System.Linq;
 using System.Threading.Tasks;
-using RestAPI_HttpClient.config;
-using RestAPI_HttpClient.models;
+using RestAPI_HttpClient.Config;
+using RestAPI_HttpClient.Models;
 
-namespace RestAPI_HttpClient.utils
+namespace RestAPI_HttpClient.Utils
 {
     public static class App
     {

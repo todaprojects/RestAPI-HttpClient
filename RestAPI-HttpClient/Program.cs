@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
-using RestAPI_HttpClient.utils;
+using RestAPI_HttpClient.Utils;
 
 namespace RestAPI_HttpClient
 {

@@ -1,6 +1,6 @@
 using System;
 
-namespace RestAPI_HttpClient.config
+namespace RestAPI_HttpClient.Config
 {
     public static class ResourceApi
     {
